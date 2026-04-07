@@ -1,0 +1,11 @@
+# IDE (Kod editörü) dosyalarını engelle
+.idea/
+.vscode/
+*.swp
+
+# Python gereksiz dosyaları
+__pycache__/
+*.pyc
+
+# Veri dosyaları (Çok büyük oldukları için GitHub'a yüklenmezler)
+*.csv
